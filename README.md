@@ -1,3 +1,7 @@
+![Dashboard Page 1](https://github.com/user-attachments/assets/77d3db1e-671c-4bf1-a26c-c1e7d1addc38)
+
+![Dashboard Page 2](https://github.com/user-attachments/assets/7a0c9f56-46c1-40ae-8188-2260e2221d1b)
+
 # DATASET
 Data - An ecommerce company's sales data with 113271 rows over two years, 2021 and 2022.
 Data Analysis - SQL Server
